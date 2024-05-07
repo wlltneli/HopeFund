@@ -2,8 +2,8 @@
 GitHub repository template for Blockchain lab project submission. Follow the rules and the provided template in this repository to avoid penalty.
 
 ## Team Member Group XX
-- Alfred Kuhlman (00000047678) @AlfredPros
-- Full Name (00000012345) @username
+- Willton Elias (00000055835) @Willton Elias
+- Richard Librata (00000034104) @Richard Librata
 
 ## Project Instruction
 1. Create your own repository.
@@ -19,9 +19,9 @@ console.log("Use this code block to show source code or terminal command to inst
 Additional notes to let everyone know regarding your team or the project.
 
 ### Work Organization
-- **Alfred Kuhlman**
+- **Willton Elias**
   - Programmed the smart contract and oracle to handle data and flow control.
-- **Full Name**
+- **Richard Librata**
   - Designed the webpage UIs.
   - Implemented and programmed webpage functionality.
 
