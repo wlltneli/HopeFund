@@ -22,6 +22,7 @@ Additional notes to let everyone know regarding your team or the project.
 - **Willton Elias**
   - Programmed the smart contract and oracle to handle data and flow control.
 - **Richard Librata**
+- **Farrel Shane Irwanto**
   - Designed the webpage UIs.
   - Implemented and programmed webpage functionality.
 
