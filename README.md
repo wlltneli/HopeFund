@@ -4,6 +4,7 @@ GitHub repository template for Blockchain lab project submission. Follow the rul
 ## Team Member Group XX
 - Willton Elias (00000055835) @Willton Elias
 - Richard Librata (00000034104) @Richard Librata
+- Farrel Shane Irwanto (000000075399) @Farrel Shane Irwanto
 
 ## Project Instruction
 1. Create your own repository.
